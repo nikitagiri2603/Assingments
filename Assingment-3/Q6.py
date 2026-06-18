@@ -1,0 +1,36 @@
+
+from sys import getsizeof
+print("Menu: ")
+print("1] Integer value")
+print("2] Float value")
+print("3] String value")
+print("Enter choice")
+choice = int(input())
+
+if(choice == 1):
+    print("Enter an integer value")
+    no1 = int(input())
+    print("---------------------------")
+    print("Data you entered is :",no1)
+    print("Data-type of value you entered is :", type(no1))
+    print("Reference of the value is :",id(no1))
+    print("Hexadecimal value is :" ,hex(id(no1)))
+    print("Size in bytes is :",getsizeof(no1))
+elif(choice == 2):
+    print("Enter an float value")
+    fno2 = int(input())
+    print("---------------------------")
+    print("Data you entered is :",fno2)
+    print("Data-type of value you entered is :", type(fno2))
+    print("Reference of the value is :",id(fno2))
+    print("Hexadecimal value is :" ,hex(id(fno2)))
+    print("Size in bytes is :",getsizeof(fno2))
+else:
+    print("Enter a string value")
+    string = input()
+    print("---------------------------")
+    print("Data you entered is :",string)
+    print("Data-type of value you entered is :", type(string))
+    print("Reference of the value is :",id(string))
+    print("Hexadecimal value is :" ,hex(id(string)))
+    print("Size in bytes is :",getsizeof(string))
