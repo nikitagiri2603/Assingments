@@ -7,7 +7,6 @@ def filterX(Task, Elements):
         Ret = Task(no)
         if(Ret == True):
             Result.append(no)
-
     return Result
 
 def main():
