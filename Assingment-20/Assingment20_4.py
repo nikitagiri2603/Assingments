@@ -1,52 +1,40 @@
+
 import threading
 
-def Small(str1):
-    print("Thread ID :", threading.get_ident())
-    print("Thread Name :", threading.current_thread().name)
+def DisplaySmall(str1):
+    print("Thread Id is ",threading.get_ident())
+    print("Name of current thraed is :",threading.current_thread().name)
+    cnt = 0
+    for i in str1:
+        if(i>='a' and i<='z'):
+            cnt = cnt + 1
+    print(f"Lowercase letters in {str1} is {cnt}")
 
-    Count = 0
+def DisplayCapital(str1):
+    print("Thread Id is ",threading.get_ident())
+    print("Name of current thraed is :",threading.current_thread().name)
+    cnt = 0
+    for i in str1:
+        if(i>='A' and i<='Z'):
+            cnt = cnt + 1
+    print(f"Uppercase letters in {str1} is {cnt}")
 
-    for ch in str1:
-        if(ch >= 'a' and ch <= 'z'):
-            Count = Count + 1
-
-    print("Count of small letters is :", Count)
-
-
-def Capital(str1):
-    print("Thread ID :", threading.get_ident())
-    print("Thread Name :", threading.current_thread().name)
-
-    Count = 0
-
-    for ch in str1:
-        if(ch >= 'A' and ch <= 'Z'):
-            Count = Count + 1
-
-    print("Count of capital letters is :", Count)
-
-
-def Digits(str1):
-    print("Thread ID :", threading.get_ident())
-    print("Thread Name :", threading.current_thread().name)
-
-    Count = 0
-
-    for ch in str1:
-        if(ch >= '0' and ch <= '9'):
-            Count = Count + 1
-
-    print("Count of digits is :", Count)
-
+def DisplayDigits(str1):
+    print("Thread Id is ",threading.get_ident())
+    print("Name of current thraed is :",threading.current_thread().name)
+    cnt = 0
+    for i in str1:
+        if(i >= '0' and i <= '9'):
+            cnt = cnt + 1
+    print(f"Digits in {str1} is {cnt}")   
 
 def main():
     print("Thread ID of main thread :", threading.get_ident())
-
-    str1 = input("Enter a string : ")
-
-    t1 = threading.Thread(target=Small, args=(str1,), name="Small")
-    t2 = threading.Thread(target=Capital, args=(str1,), name="Capital")
-    t3 = threading.Thread(target=Digits, args=(str1,), name="Digits")
+    string = input("Enter a alphanumeric string :")
+    
+    t1 = threading.Thread(target=DisplaySmall,args=(string,))
+    t2 = threading.Thread(target=DisplayCapital,args=(string,))
+    t3 = threading.Thread(target=DisplayDigits,args=(string,))
 
     t1.start()
     t2.start()
@@ -55,9 +43,6 @@ def main():
     t1.join()
     t2.join()
     t3.join()
-
-    print("Exit from main")
-
 
 if __name__ == "__main__":
     main()

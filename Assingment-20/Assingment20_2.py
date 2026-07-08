@@ -1,53 +1,32 @@
+
 import threading
+import time
 
-def EvenFactor(No):
-    print("TID of EvenFactor thread is", threading.get_ident())
+def DisplayEven(No):
+    SumEvenFactors = 0
+    for i in range(1,No+1):
+        if(No%i==0 and i%2==0):
+            SumEvenFactors = SumEvenFactors+i
+    print("Sum of even factors is", SumEvenFactors)
 
-    Sum = 0
-
-    print("Even Factors are :", end=" ")
-
-    for i in range(1, No + 1):
-        if(No % i == 0):
-            if(i % 2 == 0):
-                print(i, end=" ")
-                Sum = Sum + i
-
-    print("\nSum of Even Factors is :", Sum)
-
-
-def OddFactor(No):
-    print("TID of OddFactor thread is", threading.get_ident())
-
-    Sum = 0
-
-    print("Odd Factors are :", end=" ")
-
-    for i in range(1, No + 1):
-        if(No % i == 0):
-            if(i % 2 != 0):
-                print(i, end=" ")
-                Sum = Sum + i
-
-    print("\nSum of Odd Factors is :", Sum)
-
+def DisplayOdd(No):
+    SumOddFactors = 0
+    for i in range(1,No+1):
+        if(No%i==0 and i%2!=0):
+            SumOddFactors = SumOddFactors+i
+    print("Sum of odd factors is", SumOddFactors)
 
 def main():
-    print("TID of main thread is", threading.get_ident())
-
-    value = int(input("Enter a number : "))
-
-    t1 = threading.Thread(target=EvenFactor, args=(value,))
-    t2 = threading.Thread(target=OddFactor, args=(value,))
-
+    value = int(input("Enter a number:"))
+    start_time = time.perf_counter()
+    t1 = threading.Thread(target=DisplayEven,args=(value,))
+    t2 = threading.Thread(target=DisplayOdd,args=(value,))
     t1.start()
     t2.start()
-
     t1.join()
     t2.join()
-
-    print("Exit from main")
-
+    end_time = time.perf_counter()
+    print(f"Time required is {end_time-start_time:.4f} seconds")
 
 if __name__ == "__main__":
     main()

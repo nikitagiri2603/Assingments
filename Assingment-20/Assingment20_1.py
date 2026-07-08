@@ -1,35 +1,32 @@
+
+
 import time
 import threading
 
-def Even():
-    print("TID of Even thread is", threading.get_ident())
-    for i in range(1, 11):
-        print(i * 2, end=" ")
+def Even(No):
+    print("Even numbers are :")
+    for i in range(0,11):
+        if(i%2==0):
+            print(i,end=" ")
     print()
-
-
-def Odd():
-    print("TID of Odd thread is", threading.get_ident())
-    for i in range(1, 11):
-        print((i * 2) - 1, end=" ")
-    print()
+ 
+def Odd(No):
+    print("Odd numbers are :")
+    for i in range(0,11):
+        if(i%2!=0):
+            print(i,end=" ")
 
 def main():
-    print("TID of main thread is", threading.get_ident())
 
     start_time = time.perf_counter()
-
-    t1 = threading.Thread(target=Even)
-    t2 = threading.Thread(target=Odd)
-
+    t1 = threading.Thread(target=Even,args=(11,))
+    t2 = threading.Thread(target=Odd,args=(11,))
     t1.start()
     t2.start()
-
     t1.join()
     t2.join()
-
     end_time = time.perf_counter()
-
+    print()
     print(f"Time required is {end_time - start_time:.4f} seconds")
 
 if __name__ == "__main__":
