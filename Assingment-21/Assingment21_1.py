@@ -10,7 +10,6 @@ def CheckPrime(No):
 
     return True
 
-
 def Prime(Data):
     print("Thread ID :", threading.get_ident())
     print("Thread Name :", threading.current_thread().name)
