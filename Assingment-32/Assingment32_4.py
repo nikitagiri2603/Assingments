@@ -46,7 +46,7 @@ def main():
     if not os.path.isdir(DestinationDirectory):
         print("Invalid Destination Directory")
         return
-    
+        
     schedule.every(10).minutes.do(CopyTextFiles,SourceDirectory,DestinationDirectory)
 
     while True:
