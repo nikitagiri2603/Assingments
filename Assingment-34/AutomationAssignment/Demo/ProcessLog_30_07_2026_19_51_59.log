@@ -1,0 +1,279 @@
+2026-07-30 19:51:59,773 : PID : 0  Name : System Idle Process  User : NT AUTHORITY\SYSTEM
+2026-07-30 19:51:59,773 : PID : 4  Name : System  User : NT AUTHORITY\SYSTEM
+2026-07-30 19:51:59,774 : PID : 176  Name : Registry  User : None
+2026-07-30 19:51:59,774 : PID : 328  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,774 : PID : 608  Name : svchost.exe  User : None
+2026-07-30 19:51:59,774 : PID : 636  Name : smss.exe  User : None
+2026-07-30 19:51:59,774 : PID : 1016  Name : csrss.exe  User : None
+2026-07-30 19:51:59,774 : PID : 1028  Name : svchost.exe  User : None
+2026-07-30 19:51:59,784 : PID : 1036  Name : wininit.exe  User : None
+2026-07-30 19:51:59,784 : PID : 1048  Name : svchost.exe  User : None
+2026-07-30 19:51:59,784 : PID : 1128  Name : ShellExperienceHost.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,784 : PID : 1156  Name : services.exe  User : None
+2026-07-30 19:51:59,784 : PID : 1200  Name : lsass.exe  User : None
+2026-07-30 19:51:59,784 : PID : 1228  Name : powershell.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,784 : PID : 1356  Name : svchost.exe  User : None
+2026-07-30 19:51:59,784 : PID : 1368  Name : WUDFHost.exe  User : None
+2026-07-30 19:51:59,784 : PID : 1400  Name : svchost.exe  User : None
+2026-07-30 19:51:59,784 : PID : 1408  Name : fontdrvhost.exe  User : None
+2026-07-30 19:51:59,784 : PID : 1532  Name : svchost.exe  User : None
+2026-07-30 19:51:59,784 : PID : 1580  Name : svchost.exe  User : None
+2026-07-30 19:51:59,784 : PID : 1712  Name : WUDFHost.exe  User : None
+2026-07-30 19:51:59,784 : PID : 1832  Name : svchost.exe  User : None
+2026-07-30 19:51:59,784 : PID : 1844  Name : Code.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,784 : PID : 1868  Name : svchost.exe  User : None
+2026-07-30 19:51:59,785 : PID : 1876  Name : svchost.exe  User : None
+2026-07-30 19:51:59,785 : PID : 1892  Name : svchost.exe  User : None
+2026-07-30 19:51:59,785 : PID : 1912  Name : svchost.exe  User : None
+2026-07-30 19:51:59,785 : PID : 2076  Name : RuntimeBroker.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,785 : PID : 2080  Name : svchost.exe  User : None
+2026-07-30 19:51:59,785 : PID : 2104  Name : svchost.exe  User : None
+2026-07-30 19:51:59,785 : PID : 2136  Name : svchost.exe  User : None
+2026-07-30 19:51:59,785 : PID : 2156  Name : svchost.exe  User : None
+2026-07-30 19:51:59,785 : PID : 2188  Name : svchost.exe  User : None
+2026-07-30 19:51:59,785 : PID : 2212  Name : svchost.exe  User : None
+2026-07-30 19:51:59,785 : PID : 2292  Name : msedge.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,785 : PID : 2336  Name : svchost.exe  User : None
+2026-07-30 19:51:59,785 : PID : 2348  Name : Code.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,785 : PID : 2496  Name : svchost.exe  User : None
+2026-07-30 19:51:59,785 : PID : 2592  Name : DesktopExtension.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,785 : PID : 2608  Name : svchost.exe  User : None
+2026-07-30 19:51:59,785 : PID : 2644  Name : svchost.exe  User : None
+2026-07-30 19:51:59,785 : PID : 2784  Name : explorer.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,786 : PID : 2788  Name : unsecapp.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,786 : PID : 2852  Name : svchost.exe  User : None
+2026-07-30 19:51:59,786 : PID : 2896  Name : IntelCpHDCPSvc.exe  User : None
+2026-07-30 19:51:59,786 : PID : 3016  Name : NVDisplay.Container.exe  User : None
+2026-07-30 19:51:59,786 : PID : 3104  Name : svchost.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,786 : PID : 3108  Name : igfxCUIServiceN.exe  User : None
+2026-07-30 19:51:59,786 : PID : 3192  Name : svchost.exe  User : None
+2026-07-30 19:51:59,786 : PID : 3260  Name : svchost.exe  User : None
+2026-07-30 19:51:59,786 : PID : 3340  Name : svchost.exe  User : None
+2026-07-30 19:51:59,786 : PID : 3352  Name : svchost.exe  User : None
+2026-07-30 19:51:59,786 : PID : 3368  Name : Code.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,786 : PID : 3404  Name : AppHelperCap.exe  User : None
+2026-07-30 19:51:59,786 : PID : 3412  Name : TouchpointAnalyticsClientService.exe  User : None
+2026-07-30 19:51:59,786 : PID : 3420  Name : SysInfoCap.exe  User : None
+2026-07-30 19:51:59,786 : PID : 3428  Name : DiagsCap.exe  User : None
+2026-07-30 19:51:59,786 : PID : 3500  Name : sqlceip.exe  User : None
+2026-07-30 19:51:59,786 : PID : 3504  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,786 : PID : 3508  Name : svchost.exe  User : None
+2026-07-30 19:51:59,787 : PID : 3520  Name : NetworkCap.exe  User : None
+2026-07-30 19:51:59,787 : PID : 3528  Name : StartMenuExperienceHost.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,787 : PID : 3552  Name : unsecapp.exe  User : None
+2026-07-30 19:51:59,787 : PID : 3696  Name : svchost.exe  User : None
+2026-07-30 19:51:59,787 : PID : 3824  Name : svchost.exe  User : None
+2026-07-30 19:51:59,787 : PID : 3924  Name : HPAudioSwitch.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,787 : PID : 3936  Name : chrome.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,787 : PID : 3952  Name : svchost.exe  User : None
+2026-07-30 19:51:59,787 : PID : 3976  Name : OpenConsole.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,787 : PID : 4128  Name : chrome.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,787 : PID : 4148  Name : svchost.exe  User : None
+2026-07-30 19:51:59,787 : PID : 4176  Name : chrome.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,787 : PID : 4200  Name : M365Copilot.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,787 : PID : 4276  Name : WmiPrvSE.exe  User : None
+2026-07-30 19:51:59,787 : PID : 4320  Name : chrome.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,787 : PID : 4364  Name : winlogon.exe  User : None
+2026-07-30 19:51:59,787 : PID : 4404  Name : msedge.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,787 : PID : 4444  Name : svchost.exe  User : None
+2026-07-30 19:51:59,788 : PID : 4492  Name : UserAwarenessHelper.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,788 : PID : 4552  Name : svchost.exe  User : None
+2026-07-30 19:51:59,788 : PID : 4568  Name : Code.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,788 : PID : 4676  Name : svchost.exe  User : None
+2026-07-30 19:51:59,788 : PID : 4708  Name : svchost.exe  User : None
+2026-07-30 19:51:59,788 : PID : 4836  Name : spoolsv.exe  User : None
+2026-07-30 19:51:59,788 : PID : 4844  Name : svchost.exe  User : None
+2026-07-30 19:51:59,788 : PID : 4956  Name : svchost.exe  User : None
+2026-07-30 19:51:59,788 : PID : 4996  Name : RuntimeBroker.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,788 : PID : 5000  Name : svchost.exe  User : None
+2026-07-30 19:51:59,788 : PID : 5104  Name : svchost.exe  User : None
+2026-07-30 19:51:59,788 : PID : 5124  Name : postgres.exe  User : None
+2026-07-30 19:51:59,788 : PID : 5140  Name : conhost.exe  User : None
+2026-07-30 19:51:59,788 : PID : 5176  Name : svchost.exe  User : None
+2026-07-30 19:51:59,788 : PID : 5188  Name : svchost.exe  User : None
+2026-07-30 19:51:59,788 : PID : 5200  Name : svchost.exe  User : None
+2026-07-30 19:51:59,788 : PID : 5220  Name : svchost.exe  User : None
+2026-07-30 19:51:59,788 : PID : 5272  Name : UserAwarenessService.exe  User : None
+2026-07-30 19:51:59,788 : PID : 5288  Name : svchost.exe  User : None
+2026-07-30 19:51:59,788 : PID : 5448  Name : RtkAudUService64.exe  User : None
+2026-07-30 19:51:59,789 : PID : 5456  Name : RstMwService.exe  User : None
+2026-07-30 19:51:59,789 : PID : 5464  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,789 : PID : 5492  Name : svchost.exe  User : None
+2026-07-30 19:51:59,789 : PID : 5520  Name : IntelAudioService.exe  User : None
+2026-07-30 19:51:59,789 : PID : 5540  Name : svchost.exe  User : None
+2026-07-30 19:51:59,789 : PID : 5552  Name : ETDService.exe  User : None
+2026-07-30 19:51:59,789 : PID : 5564  Name : jhi_service.exe  User : None
+2026-07-30 19:51:59,789 : PID : 5592  Name : svchost.exe  User : None
+2026-07-30 19:51:59,789 : PID : 5600  Name : pet.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,789 : PID : 5632  Name : RtkBtManServ.exe  User : None
+2026-07-30 19:51:59,789 : PID : 5648  Name : svchost.exe  User : None
+2026-07-30 19:51:59,789 : PID : 5656  Name : MpDefenderCoreService.exe  User : None
+2026-07-30 19:51:59,789 : PID : 5736  Name : pg_ctl.exe  User : None
+2026-07-30 19:51:59,789 : PID : 5752  Name : MsMpEng.exe  User : None
+2026-07-30 19:51:59,789 : PID : 5780  Name : Code.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,789 : PID : 5860  Name : sqlwriter.exe  User : None
+2026-07-30 19:51:59,789 : PID : 5936  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,789 : PID : 5940  Name : OneApp.IGCC.WinService.exe  User : None
+2026-07-30 19:51:59,789 : PID : 6000  Name : SECOMN64.exe  User : None
+2026-07-30 19:51:59,789 : PID : 6064  Name : AppActions.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,789 : PID : 6072  Name : servicehost.exe  User : None
+2026-07-30 19:51:59,789 : PID : 6076  Name : svchost.exe  User : None
+2026-07-30 19:51:59,789 : PID : 6136  Name : esif_uf.exe  User : None
+2026-07-30 19:51:59,789 : PID : 6236  Name : WidgetService.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,789 : PID : 6364  Name : Code.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,789 : PID : 6616  Name : HP.HPX.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,789 : PID : 6712  Name : WMIRegistrationService.exe  User : None
+2026-07-30 19:51:59,789 : PID : 6892  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,789 : PID : 6992  Name : svchost.exe  User : None
+2026-07-30 19:51:59,789 : PID : 7180  Name : postgres.exe  User : None
+2026-07-30 19:51:59,789 : PID : 7264  Name : svchost.exe  User : None
+2026-07-30 19:51:59,789 : PID : 7340  Name : SearchIndexer.exe  User : None
+2026-07-30 19:51:59,790 : PID : 7472  Name : OpenConsole.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,790 : PID : 7548  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,790 : PID : 7724  Name : ETDCtrl.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,790 : PID : 7736  Name : igfxEMN.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,790 : PID : 7968  Name : Widgets.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,790 : PID : 8324  Name : postgres.exe  User : None
+2026-07-30 19:51:59,790 : PID : 8340  Name : postgres.exe  User : None
+2026-07-30 19:51:59,790 : PID : 8348  Name : postgres.exe  User : None
+2026-07-30 19:51:59,790 : PID : 8356  Name : postgres.exe  User : None
+2026-07-30 19:51:59,790 : PID : 8368  Name : postgres.exe  User : None
+2026-07-30 19:51:59,790 : PID : 8572  Name : postgres.exe  User : None
+2026-07-30 19:51:59,790 : PID : 8580  Name : postgres.exe  User : None
+2026-07-30 19:51:59,790 : PID : 8592  Name : postgres.exe  User : None
+2026-07-30 19:51:59,790 : PID : 8760  Name : RuntimeBroker.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,790 : PID : 8880  Name : pet.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,790 : PID : 8944  Name : Code.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,790 : PID : 9248  Name : svchost.exe  User : None
+2026-07-30 19:51:59,790 : PID : 9332  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,790 : PID : 9460  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,791 : PID : 9464  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,791 : PID : 9476  Name : svchost.exe  User : None
+2026-07-30 19:51:59,791 : PID : 9500  Name : conhost.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,791 : PID : 9564  Name : svchost.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,791 : PID : 9628  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,791 : PID : 9820  Name : Code.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,791 : PID : 9928  Name : powershell.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,791 : PID : 9956  Name : csrss.exe  User : None
+2026-07-30 19:51:59,791 : PID : 10092  Name : ReconsentNotification.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,791 : PID : 10096  Name : svchost.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,791 : PID : 10120  Name : svchost.exe  User : None
+2026-07-30 19:51:59,791 : PID : 10152  Name : OpenConsole.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,791 : PID : 10220  Name : svchost.exe  User : None
+2026-07-30 19:51:59,791 : PID : 10316  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,791 : PID : 10420  Name : LockApp.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,791 : PID : 10476  Name : OpenConsole.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,791 : PID : 10504  Name : svchost.exe  User : None
+2026-07-30 19:51:59,791 : PID : 10640  Name : RuntimeBroker.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,792 : PID : 10704  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,792 : PID : 10788  Name : WUDFHost.exe  User : None
+2026-07-30 19:51:59,792 : PID : 10920  Name : ApplicationFrameHost.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,792 : PID : 10984  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,792 : PID : 11048  Name : AggregatorHost.exe  User : None
+2026-07-30 19:51:59,792 : PID : 11064  Name : fontdrvhost.exe  User : None
+2026-07-30 19:51:59,792 : PID : 11180  Name : Code.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,792 : PID : 11192  Name : WhatsApp.Root.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,792 : PID : 11224  Name : Code.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,792 : PID : 11320  Name : NVDisplay.Container.exe  User : None
+2026-07-30 19:51:59,792 : PID : 11404  Name : RuntimeBroker.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,792 : PID : 11412  Name : svchost.exe  User : None
+2026-07-30 19:51:59,792 : PID : 11544  Name : svchost.exe  User : None
+2026-07-30 19:51:59,792 : PID : 11712  Name : powershell.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,792 : PID : 12120  Name : ONENOTEM.EXE  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,792 : PID : 12164  Name : svchost.exe  User : None
+2026-07-30 19:51:59,792 : PID : 12180  Name : SDXHelper.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,792 : PID : 12320  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,793 : PID : 12360  Name : powershell.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,793 : PID : 12440  Name : svchost.exe  User : None
+2026-07-30 19:51:59,793 : PID : 12456  Name : HPSystemEventUtilityHost.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,793 : PID : 12748  Name : uihost.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,793 : PID : 12888  Name : chrome.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,793 : PID : 12924  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,793 : PID : 13504  Name : SecurityHealthSystray.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,793 : PID : 13528  Name : dllhost.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,793 : PID : 13612  Name : msedge.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,793 : PID : 13812  Name : conhost.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,793 : PID : 13824  Name : SecurityHealthService.exe  User : None
+2026-07-30 19:51:59,793 : PID : 14040  Name : ShellHost.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,793 : PID : 14600  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,793 : PID : 14620  Name : audiodg.exe  User : None
+2026-07-30 19:51:59,793 : PID : 15136  Name : Code.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,793 : PID : 15168  Name : AdobeARM.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,793 : PID : 15252  Name : msedge.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,793 : PID : 15352  Name : taskhostw.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,794 : PID : 15364  Name : sqlservr.exe  User : None
+2026-07-30 19:51:59,794 : PID : 15420  Name : OfficeClickToRun.exe  User : None
+2026-07-30 19:51:59,794 : PID : 15532  Name : svchost.exe  User : None
+2026-07-30 19:51:59,794 : PID : 15556  Name : powershell.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,794 : PID : 15668  Name : svchost.exe  User : None
+2026-07-30 19:51:59,794 : PID : 15672  Name : RuntimeBroker.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,794 : PID : 15744  Name : msedge.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,794 : PID : 16080  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,794 : PID : 16132  Name : svchost.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,794 : PID : 16156  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,794 : PID : 16208  Name : NisSrv.exe  User : None
+2026-07-30 19:51:59,794 : PID : 16264  Name : sihost.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,794 : PID : 16292  Name : AdobeCollabSync.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,794 : PID : 16312  Name : svchost.exe  User : None
+2026-07-30 19:51:59,794 : PID : 16392  Name : dwm.exe  User : None
+2026-07-30 19:51:59,794 : PID : 16560  Name : HPMediaNetwork.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,794 : PID : 16860  Name : vlc.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,795 : PID : 17160  Name : chrome.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,795 : PID : 17260  Name : svchost.exe  User : None
+2026-07-30 19:51:59,795 : PID : 17436  Name : svchost.exe  User : None
+2026-07-30 19:51:59,795 : PID : 17544  Name : HPCommRecovery.exe  User : None
+2026-07-30 19:51:59,795 : PID : 17548  Name : svchost.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,795 : PID : 17720  Name : svchost.exe  User : None
+2026-07-30 19:51:59,795 : PID : 17984  Name : svchost.exe  User : None
+2026-07-30 19:51:59,795 : PID : 18048  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,795 : PID : 18084  Name : OpenConsole.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,795 : PID : 18416  Name : chrome.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,795 : PID : 18492  Name : WmiPrvSE.exe  User : None
+2026-07-30 19:51:59,795 : PID : 18632  Name : OpenConsole.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,795 : PID : 18744  Name : powershell.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,795 : PID : 18780  Name : msedge.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,795 : PID : 18796  Name : TextInputHost.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,795 : PID : 18892  Name : Code.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,795 : PID : 19008  Name : RuntimeBroker.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,795 : PID : 19012  Name : EkaReportStudio.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,796 : PID : 19020  Name : WindowsTerminal.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,796 : PID : 19056  Name : svchost.exe  User : None
+2026-07-30 19:51:59,796 : PID : 19092  Name : svchost.exe  User : None
+2026-07-30 19:51:59,796 : PID : 19240  Name : Code.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,796 : PID : 19248  Name : CrossDeviceService.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,796 : PID : 19260  Name : elevation_service.exe  User : None
+2026-07-30 19:51:59,796 : PID : 19264  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,796 : PID : 19288  Name : svchost.exe  User : None
+2026-07-30 19:51:59,796 : PID : 19528  Name : chrome.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,796 : PID : 19644  Name : svchost.exe  User : None
+2026-07-30 19:51:59,796 : PID : 19684  Name : SearchHost.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,796 : PID : 19728  Name : svchost.exe  User : None
+2026-07-30 19:51:59,796 : PID : 19752  Name : svchost.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,796 : PID : 19828  Name : svchost.exe  User : None
+2026-07-30 19:51:59,796 : PID : 19984  Name : svchost.exe  User : None
+2026-07-30 19:51:59,796 : PID : 20116  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,796 : PID : 20140  Name : Code.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,796 : PID : 20420  Name : HPSystemEventUtilityBackground.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,797 : PID : 20448  Name : msedge.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,797 : PID : 20468  Name : Code.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,797 : PID : 20496  Name : svchost.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,797 : PID : 20524  Name : dllhost.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,797 : PID : 20728  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,797 : PID : 20828  Name : RuntimeBroker.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,797 : PID : 21048  Name : CrossDeviceResume.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,797 : PID : 21276  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,797 : PID : 21576  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,797 : PID : 21872  Name : python.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,797 : PID : 22096  Name : AdobeCollabSync.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,797 : PID : 22416  Name : svchost.exe  User : None
+2026-07-30 19:51:59,797 : PID : 22508  Name : RuntimeBroker.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,797 : PID : 22744  Name : Code.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,797 : PID : 22756  Name : svchost.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,797 : PID : 22772  Name : ctfmon.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,797 : PID : 22956  Name : svchost.exe  User : None
+2026-07-30 19:51:59,797 : PID : 23008  Name : msedgewebview2.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,798 : PID : 23012  Name : svchost.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,798 : PID : 23028  Name : svchost.exe  User : None
+2026-07-30 19:51:59,798 : PID : 23060  Name : RtkAudUService64.exe  User : LAPTOP-QI66UECT\Nikita Giri
+2026-07-30 19:51:59,798 : PID : 23204  Name : svchost.exe  User : None
+2026-07-30 19:51:59,798 : PID : 23400  Name : svchost.exe  User : None
